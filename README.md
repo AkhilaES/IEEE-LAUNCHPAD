@@ -1,153 +1,68 @@
-# IEEE LAUNCHPAD Job Fair
+# E S AKHILA
 
+### About Me
 
+Hey there! I'm Akhila, a Computer Science and Engineering (CSE) student passionate about leveraging technology to create meaningful solutions. With a robust foundation in Python, Java, and C, I thrive in the dynamic world of programming, constantly exploring new avenues for innovation.
 
+As a Placement Coordinator in my college, I honed my communication and organizational skills, connecting fellow students with career opportunities and facilitating their professional growth. This role not only taught me the importance of networking but also instilled in me a deep appreciation for teamwork and collaboration.
 
+Beyond academics, I've played a pivotal role in coordinating a university-level tech fest, where I helped create a platform for students to showcase their talents and exchange ideas. This experience fueled my passion for community building and fostering an environment where creativity flourishes.
 
+Whether it's diving into complex algorithms or brainstorming innovative project ideas, I'm always eager to push the boundaries of what's possible in the world of technology. With a blend of technical expertise and leadership skills, I aspire to make a meaningful impact in the ever-evolving field of computer science.
 
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
 
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+|_Identity Recognition Using Brain Waves _                                          |Person identification technology recognizes individuals by exploiting their unique, measurable physiological and behavioralcharacteristics. However, the state-of-the-art person identification systems have been shown to be vulnerable, e.g., antisurveillance prosthetic masks can thwart face recognition, contact lenses can trick iris recognition, vocoder can compromisevoice identification and fingerprint films can deceive fingerprint sensors. EEG (Electroencephalography)-based identificationwhich utilizes the user’s brainwave signals for identification and offers a more resilient solution, draw a lot of attention recently. However, the accuracy still requires improvement and very little work is focusing on the robustness and adaptabilityof the identification system. We propose MindID, an EEG-based biometric identification approach, achieveshigher accuracyand better characteristics. At first, the EEG data patterns are analyzed and the results show that the Delta pattern containsthe most distinctive information for user identification.           |   
+| Breast Cancer Detection | this project aimed to use advanced technology, collaboration with medical experts, and a patient-centered approach to improve the early detection of breast cancer in girls with early menarche. Its key features include personalized risk assessment, user-friendly interfaces, educational materials, and compatibility with existing healthcare systems.                                             |   |         |
 
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### Networking:
 
-#
+- Follow me on :(https://www.linkedin.com/in/akhilasubramaniyan)
 
+#### Career Plan:
 
+- As a Computer Science Engineering graduate, I aim to excel as a Software Engineer. I'll collaborate with teams to develop innovative solutions, ensuring code quality and staying abreast of emerging technologies.In the immediate term, I'll engage with Kerala's startup communities, offering mentorship and participating in events. Long-term, I aim to establish initiatives supporting innovation and entrepreneurship. Kerala can excel by leveraging its strong STEM education, fostering collaboration between academia and industry, and improving access to funding and resources. By nurturing a vibrant ecosystem, Kerala can become a leading hub for technology startups, driving economic growth and innovation in the region. 
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
-<div align="center">
+- Kerala has immense potential to become a center of excellence for future technologies in India. Its rich cultural heritage combined with a burgeoning tech scene creates a unique environment ripe for innovation. By fostering a supportive ecosystem that encourages entrepreneurship and embraces emerging technologies, Kerala can undoubtedly emerge as a leading destination for tech-driven advancements in the future.
 
+#### History of Open Source Contributions:
 
+- I don't have any open source contributions upto here.
 
+#### History of Community Engagement:
 
-# How to Participate
+-  I am engaged in many communities through discord servers. The activities through this communities include carrier development, tech activities and leadership development.
 
-## Step 1:
+#### Highly Visible Technical Content:
 
+- (https://medium.com/@akhilaes71/identity-recognition-using-brain-waves-4123f26b7901)
 
+#### Highly Used Software Tools:
 
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
+- Microsoft Office Suite (Word, Excel, PowerPoint), Vistual Studio Code, Github, Chrome Developer Tools.
 
+#### Competitive Website Profiles:
 
+- Hackerrank :(https://www.hackerrank.com/profile/akhilaes8)
 
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
 
-#
 
-## Step 2:
 
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
 
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
 
-</div>
 
-<div align="center">
 
-## Step 3:
 
-</div>
 
 
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
